@@ -7,6 +7,6 @@
 - ✨ Ilove maths, programming, books
 - 🚀I love to gather new experiences, meet new people 🧑‍🤝‍🧑 and learn new things
 - 🌱 I’m currently learning  data science, python, c
-- 😄 Pronouns: He
+- 😄 Pronouns: He/him
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abinash07/)    [Instagram](https://www.instagram.com/abinash_bordoloi07/)
                                                        
