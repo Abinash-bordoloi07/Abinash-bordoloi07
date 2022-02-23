@@ -4,7 +4,7 @@
 
 ### More about me :
 - 👨‍🎓 I’m currently a student 
-- ✨ Ilove maths, programming, books
+- ✨ I love maths, programming, books
 - 🚀I love to gather new experiences, meet new people 🧑‍🤝‍🧑 and learn new things
 - 🌱 I’m currently learning  data science, python, c
 - 😄 Pronouns: He/him
