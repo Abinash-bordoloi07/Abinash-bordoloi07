@@ -1,6 +1,6 @@
 # Hi 👋 :smile:, I'm Abinash Bordoloi
 
-## Student, Leaner:technologist:, Data Science Enthusiast :monocle_face: 
+## Student, Leaner:technologist:, AI Enthusiast :monocle_face: 
 
 ### More about me :
 - 👨‍🎓 I’m currently a student 
