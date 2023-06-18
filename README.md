@@ -6,7 +6,7 @@
 - 👨‍🎓 I’m currently a student 
 - ✨ I love maths, programming, books
 - 🚀I love to gather new experiences, meet new people 🧑‍🤝‍🧑 and learn new things
-- 🌱 I’m currently learning  data science, python, C/C++.
+- 🌱 I’m currently learning  data science, python, and C/C++.
 - 😄 Pronouns: He/him
 
 
