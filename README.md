@@ -1,4 +1,4 @@
-# Hi 👋 :smile:, I'm Abinash Bordoloi
+# Hi [![Visitors](https://visitor-badge.glitch.me/badge?page_id=your_username.your_repository)](https://github.com/abinashbordoi/abinashbordoloi)👋 :smile:, I'm Abinash Bordoloi
 
 ## Student, Learner:technologist:, AI Enthusiast :monocle_face: 
 
