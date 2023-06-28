@@ -1,5 +1,6 @@
 # Hi👋 :smile:, I'm Abinash Bordoloi                                                                                                                                                        
- ![Random Gif](https://github.com/abinashbordoloi/abinashbordoloi/blob/main/ZUUQNLUVAKKQ74K7.gif)
+  <img src="https://github.com/abinashbordoloi/abinashbordoloi/blob/main/ZUUQNLUVAKKQ74K7.gif" alt="Random Gif" width="200" height="300">
+  
 ## Student, Learner:technologist:, AI Enthusiast :monocle_face: 
 
 ### More about me :
