@@ -1,5 +1,8 @@
-# Hi👋 :smile:, I'm Abinash Bordoloi                                                                                                                                                        
-  <img src="https://github.com/abinashbordoloi/abinashbordoloi/blob/main/ZUUQNLUVAKKQ74K7.gif" alt="Random Gif" width="200" height="300">
+# Hi👋 :smile:, I'm Abinash Bordoloi   
+![](https://komarev.com/ghpvc/?username=abinashbordoloi&color=green)
+
+  <img src="https://github.com/abinashbordoloi/abinashbordoloi/blob/main/ZUUQNLUVAKKQ74K7.gif" alt="Random Gif" width="200" height="300"> 
+ 
   
 ## Student, Learner:technologist:, AI Enthusiast :monocle_face: 
 
