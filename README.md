@@ -4,13 +4,13 @@
   <img src="https://github.com/abinashbordoloi/abinashbordoloi/blob/main/ZUUQNLUVAKKQ74K7.gif" alt="Random Gif" width="200" height="300"> 
  
   
-## Student, Learner:technologist:, AI Enthusiast :monocle_face: 
+## Software Devloper, Learner:technologist:, AI Enthusiast :monocle_face: 
 
 ### More about me :
-- 👨‍🎓 I’m currently a student 
+- 👨‍🎓 Working as a Software Developer C++, C# and .NET
 - ✨ I love maths, programming, books
 - 🚀I love to gather new experiences, meet new people 🧑‍🤝‍🧑 and learn new things
-- 🌱 I’m currently learning  data science, python, and C/C++.
+- 🌱 I’m learning  AI/ML and Python.
 - 😄 Pronouns: He/him
 
 
